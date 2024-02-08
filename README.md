@@ -1,2 +1,16 @@
-# movie-genre-prediction
-The main function involves predicting the genre or type of a movie. Users can copy a movie description and paste it into a textbox to determine the movie's genre, with support for multiple class predictions.  The second NLP technique is a rule-based chatbot that responds to user queries or issues within the application. 
+# movie
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
